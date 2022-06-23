@@ -39,7 +39,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
 body{
-	background: rgba(63, 63, 63, 0.2);
+	background: rgba(63, 63, 63, 0.6);
+	background: url("../fonts/fon2.jpg") fixed no-repeat;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
